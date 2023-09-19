@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "9d49ad513ddff4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce9722509fbfb37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "索引.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47878c662001d51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c2b4864811b6c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb1d72138d8bf66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f77a2689bdddf67f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358
+  },
+  "right": {
+    "id": "0367fe80eea77d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "8182551b69e4a0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0763762bc3c11eb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "319a2069faab3dba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dbb84683d7faa75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b405768a6e0f4c23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "索引.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391
+  },
+  "active": "cce9722509fbfb37",
+  "lastOpenFiles": [
+    "索引.md",
+    "assets/使用方法/默认阅读模式.jpg",
+    "assets/使用方法/锁定 拆分.jpg",
+    "assets/使用方法/标签.jpg",
+    "assets/使用方法/标签开启.jpg",
+    "assets/使用方法/大纲.jpg",
+    "assets/使用方法/开启大纲.png",
+    "assets/使用方法/开始.jpg",
+    "assets/使用方法/开始使用.jpg",
+    "使用方法.md"
+  ]
+}
